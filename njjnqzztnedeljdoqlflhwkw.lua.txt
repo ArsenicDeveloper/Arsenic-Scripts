@@ -13,7 +13,7 @@ Sakura.Appearance = {
 
 Sakura.Links.Discord = "https://discord.gg/PWhNVK2kz"
 Sakura.Storage.FileName = "Jnkie_key"
--- Sakura.Options.KeylessUi = "true"
+Sakura.Options.KeylessUi = "true"
 
 Sakura.Shop = {
     Enabled = true,
